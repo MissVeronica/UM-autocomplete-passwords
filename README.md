@@ -1,4 +1,4 @@
-# UM autocomplete passwords
+# Ultimate Member autocomplete passwords
 UM autocomplete passwords with values: <code>current-password</code> <code>new-password</code> <code>off</code>
 
 for the UM pages: Login, Registration, Account
